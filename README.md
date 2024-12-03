@@ -17,7 +17,7 @@ The **Taylor-Updated Frank-Wolfe (TUFW)** algorithm is an advanced optimization 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your_username>/frank-wolfe-tufw.git
+    git clone https://github.com/LED-0102/frank-wolfe-tufw.git
     cd frank-wolfe-tufw
     ```
 
